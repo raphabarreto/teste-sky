@@ -63,7 +63,7 @@ Esta aplicação é baseado em um teste de avaliação pela SKY, contendo **03 f
 # 🔨 Backend
 <h4 align="center"> Clique no botão abaixo para importar todo o workspace atráves do Insomnia para consumir os dados na API</h4>
 <h1 align="center">
-<a href="https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fraphabarreto%2Fproffy-server%2Fmaster%2FProffy.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=Sky-API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fraphabarreto%2Fteste-sky%2Fmain%2FSKY-Insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </h1>
 
 ## 🔥 Instalação
